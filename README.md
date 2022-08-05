@@ -4,10 +4,14 @@
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-success"/>
 </p>
 
-<p width="90%">
-<img align="left" width="50%" src="./readme-pics/print1.jpg"/>
-<img align="right" width="50%"  src="./readme-pics/print2.jpg"/>
-</p>
+<!-- <p>
+<img float="left" width="50%" src="./readme-pics/print1.jpg"/>
+<img float="right"  width="50%"  src="./readme-pics/print2.jpg"/>
+</p> -->
+
+| ![alt-text-1](./readme-pics/print1.jpg "title-1") | ![alt-text-2](./readme-pics/print2.jpg "title-2") |
+| :-----------------------------------------------: | :-----------------------------------------------: |
+
 &nbsp;
 &nbsp;
 
