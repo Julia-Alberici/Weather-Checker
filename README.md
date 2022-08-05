@@ -4,11 +4,9 @@
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-success"/>
 </p>
 
-<p>
-<img align="left" width="49.8%" src="./readme-pics/print1.jpg"/>
-</p>
-<p>
-<img align="right" width="49.8%"  src="./readme-pics/print2.jpg"/>
+<p width="90%">
+<img align="left" width="50%" src="./readme-pics/print1.jpg"/>
+<img align="right" width="50%"  src="./readme-pics/print2.jpg"/>
 </p>
 &nbsp;
 &nbsp;
